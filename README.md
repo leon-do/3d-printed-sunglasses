@@ -6,10 +6,10 @@ temple-straight: 105mm
 temple-total: 120mm
 ```
 
-![alt text](https://i.imgur.com/tLkcWVJ.jpg)
+![alt text](https://i.imgur.com/Y4FiP1z.jpg)
 
-![alt text](https://i.imgur.com/exagBJL.jpg)
+![alt text](https://imgur.com/osL4j9Z.jpg)
 
-![alt text](https://i.imgur.com/M2KR1LM.png)
+![alt text](https://imgur.com/nvxVycb.jpg)
 
-![alt text](https://i.imgur.com/37FZcAK.jpg)
+![alt text](https://imgur.com/buQOoMe.jpg)
