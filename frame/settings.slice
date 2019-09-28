@@ -1,0 +1,5 @@
+external_perimeters_first = 1
+avoid_crossing_perimeters = 1
+fill_angle = 0
+infill_type = CONCENTRIC
+perimeters = 0.19mm
