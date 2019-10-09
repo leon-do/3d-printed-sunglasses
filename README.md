@@ -4,6 +4,9 @@ width: 136mm
 
 temple-straight: 105mm
 temple-total: 120mm
+
+wood hinge inner radius: 2.380mm
+PLA inner radisu: 2.4
 ```
 
 ![alt text](https://i.imgur.com/Y4FiP1z.jpg)
